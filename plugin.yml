@@ -1,0 +1,15 @@
+name: ColoredChat
+version: 1.0
+author: SpiroMarshes
+main: com.spiromarshes.coloredchat.ColoredChat
+commands:
+    color:
+        description: Changes the chat color
+        permission: color.set
+    reset:
+        description: Resets the chat color
+        permission: color.set
+permissions:
+    color.set:
+        description: Gives access to the color commands
+        default: false

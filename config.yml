@@ -1,0 +1,12 @@
+#        Chat Customization
+# ~~~Allowed colors are 0-9, a-f~~~
+
+# Message that is displayed when a color is set, don't set a color for this. 
+# Uses the changed color as the color for the output
+Color Set: "Your chat color has been changed!"
+
+# Message displayed when a color is reset, you can change the color for this
+Color Reset: "&aYour color has been cleared!"
+
+# Message displayed when you do /color
+Usage Message: '&aUse this command to set a chat color using a color code!'
